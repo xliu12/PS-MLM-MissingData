@@ -1,4 +1,4 @@
-# R Code for Simulations and Example in Propensity Score Weighting with Missing Data on Covariates and Cluﬆered Data Structure
+# R Code for Propensity Score Weighting with Missing Data on Covariates and Clustered Data Structure
 
 # Reference
 
